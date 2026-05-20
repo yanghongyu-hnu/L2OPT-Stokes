@@ -41,7 +41,7 @@ If you use this code in your research, please cite our paper:
 
 ## Method Overview
 
-We propose a **non-intrusive, data-driven reduced-order modeling (ROM) framework** termed **L₂-Opt-ROM** for steady parameterized Stokes problems.
+We propose a **non-intrusive, data-driven reduced-order modeling (ROM) framework** termed **$\mathcal{L}_2$-Opt-ROM** for steady parameterized Stokes problems.
 
 Key features:
 
