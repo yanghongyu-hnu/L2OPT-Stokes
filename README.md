@@ -75,27 +75,25 @@ cd L2OPT-Stokes
 
  2. Run numerical experiments
 
-Open MATLAB and navigate to the project directory.
-
-### 1D single-parameter Stokes problem  
-*(Section 4.1 of the paper)*
-
-```matlab
-cd 1D
-main_1D   % Run the complete 1D experiment pipeline
-```
-
-### 2D two-parameter lid-driven cavity flow  
-*(Section 4.2 of the paper)*
-
-```matlab
-cd ../2D
-main_2D   % Run the complete 2D experiment pipeline
-```
+  Open MATLAB and navigate to the project directory.
+  
+  ### 1D single-parameter Stokes problem  
+  *(Section 4.1 of the paper)*
+  
+  ```matlab
+  cd 1D
+  main_1D   % Run the complete 1D experiment pipeline
+  ```
+  
+  ### 2D two-parameter lid-driven cavity flow  
+  *(Section 4.2 of the paper)*
+  
+  ```matlab
+  cd ../2D
+  main_2D   % Run the complete 2D experiment pipeline
+  ```
 
 ## Code Structure
-
-## 📁 Code Structure
 
 ```plaintext
 L2OPT-Stokes/
